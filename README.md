@@ -9,12 +9,12 @@ Matricula: 902511
 
 ## Tela de inspeção com navegador
 
-![Ferramentas do desenvolvedor](image.png)
+![Ferramentas do desenvolvedor](images/ferramentas_desenvolvedor.png)
 
 ## Tela de projeto no Replit
 
-![Replit](replit_hello_world.png)
-![Navegador](hello_world.png)
+![Replit](images/replit_hello_world.png)
+![Navegador](images/hello_world.png)
 
 
 ## Orientações sobre Linguagem MarkDown
