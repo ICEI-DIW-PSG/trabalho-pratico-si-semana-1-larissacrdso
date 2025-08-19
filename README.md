@@ -13,8 +13,7 @@ Matricula: 902511
 
 ## Tela de projeto no Replit
 
-![Replit](images/replit_hello_world.png)
-![Navegador](images/hello_world.png)
+![Replit](images/replit.jpeg)
 
 
 ## Orientações sobre Linguagem MarkDown
